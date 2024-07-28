@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Kuntal100/My-react/issues"
   },
-  "homepage": "https://github.com/Kuntal100/My-react#readme"
+  "homepage": "https://github.com/Kuntal100/My-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
