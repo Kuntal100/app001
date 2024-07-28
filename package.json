@@ -1,0 +1,22 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "First react application",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuntal100/My-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Kuntal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuntal100/My-react/issues"
+  },
+  "homepage": "https://github.com/Kuntal100/My-react#readme"
+}
